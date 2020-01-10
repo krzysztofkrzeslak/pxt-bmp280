@@ -10,8 +10,6 @@
         "README.md",
         "extension.ts",
         "extension.cpp",
-        "shims.d.ts",
-        "enums.d.ts",
         "BMP280.cpp",
         "BMP280.h"
     ],
