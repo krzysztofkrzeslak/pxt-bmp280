@@ -1,6 +1,6 @@
 {
     "name": "pxt-bmp280",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,7 +8,6 @@
     },
     "files": [
         "README.md",
-        "main.ts",
         "extension.ts",
         "extension.cpp",
         "shims.d.ts",
